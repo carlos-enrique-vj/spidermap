@@ -1,14 +1,14 @@
 # 🌍 Map demo: https://carto.mx/webmap/spoke/
 # 🚇 Nearest Metro Stations (CDMX)
 
-This project is an interactive web map built with **Mapbox GL JS**, **Turf.js**, and **D3.js**, which allows you to visualize the **five closest Mexico City Metro stations** to any location on the map.  
+This project is an interactive web map built with **MapLibre GL JS**, **Turf.js**, and **D3.js**, which allows you to visualize the **five closest Mexico City Metro stations** to any location on the map.  
 
 The application dynamically recalculates the nearest stations as the user moves the map, drawing connecting lines from the map’s center to the nearest stations.
 
 ---
 
 ## 🌍 Features
-- Interactive map using **Mapbox GL JS** with 3D globe projection.  
+- Interactive map using **MapLibre GL JS** with 3D globe projection.  
 - Calculates and displays the **five nearest Metro stations** to the current center of the map.  
 - Visual connection lines from the user’s location (or map center) to nearby stations.  
 - **Custom markers and labels** for better visualization.  
@@ -20,8 +20,7 @@ The application dynamically recalculates the nearest stations as the user moves 
 ---
 
 ## 🛠️ Technologies Used
-- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/)  
-- [Mapbox Geocoder](https://github.com/mapbox/mapbox-gl-geocoder)  
+- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
 - [Turf.js](https://turfjs.org/) (geospatial analysis)  
 - [D3.js](https://d3js.org/) (data handling)  
 
@@ -39,14 +38,14 @@ The application dynamically recalculates the nearest stations as the user moves 
 # ESPAÑOL
 # 🚇 Estaciones del Metro más cercanas (CDMX)
 
-Este proyecto es un mapa web interactivo construido con **Mapbox GL JS**, **Turf.js** y **D3.js**, que permite visualizar las **cinco estaciones del Metro de la Ciudad de México más cercanas** a cualquier ubicación en el mapa.  
+Este proyecto es un mapa web interactivo construido con **MapLibre GL JS**, **Turf.js** y **D3.js**, que permite visualizar las **cinco estaciones del Metro de la Ciudad de México más cercanas** a cualquier ubicación en el mapa.  
 
 La aplicación recalcula dinámicamente las estaciones más cercanas conforme el usuario mueve el mapa, trazando líneas desde el centro hasta las estaciones más próximas.
 
 ---
 
 ## 🌍 Funcionalidades
-- Mapa interactivo con **Mapbox GL JS** en proyección 3D tipo globo.  
+- Mapa interactivo con **MapLibre GL JS** en proyección 3D tipo globo.  
 - Calcula y muestra las **cinco estaciones más cercanas** al centro actual del mapa.  
 - Líneas de conexión desde la ubicación del usuario (o centro del mapa) hacia estaciones cercanas.  
 - **Marcadores y etiquetas personalizadas** para mejor visualización.  
@@ -58,8 +57,7 @@ La aplicación recalcula dinámicamente las estaciones más cercanas conforme el
 ---
 
 ## 🛠️ Tecnologías usadas
-- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/)  
-- [Mapbox Geocoder](https://github.com/mapbox/mapbox-gl-geocoder)  
+- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
 - [Turf.js](https://turfjs.org/) (análisis geoespacial)  
 - [D3.js](https://d3js.org/) (manejo de datos)  
 
